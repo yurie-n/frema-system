@@ -15,7 +15,7 @@ Laravel環境構築<br>
 5.php artisan db:seed<br>
 
 ■テストアカウント<br>
-・test1<br>
+・testuser1<br>
   email：user1@attetest.com<br>
   PW：11111111<br>
 
